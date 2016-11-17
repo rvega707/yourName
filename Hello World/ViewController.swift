@@ -9,6 +9,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet var inputName: UITextField!
+    @IBOutlet var outputName: UILabel!
+    
+    @IBAction func submitBtn(_ sender: Any) {
+        
+        outputName.text = inputName.text
+        
+        
+        
+    }
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()

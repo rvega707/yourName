@@ -12,6 +12,7 @@
 		5BF99CA91DDD64E700F44CDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF99CA71DDD64E700F44CDC /* Main.storyboard */; };
 		5BF99CAB1DDD64E700F44CDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF99CAA1DDD64E700F44CDC /* Assets.xcassets */; };
 		5BF99CAE1DDD64E700F44CDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF99CAC1DDD64E700F44CDC /* LaunchScreen.storyboard */; };
+		5BF99CB61DDD673500F44CDC /* hello.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BF99CB51DDD673500F44CDC /* hello.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5BF99CAA1DDD64E700F44CDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BF99CAD1DDD64E700F44CDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5BF99CAF1DDD64E700F44CDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BF99CB51DDD673500F44CDC /* hello.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hello.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5BF99CA31DDD64E700F44CDC /* AppDelegate.swift */,
 				5BF99CA51DDD64E700F44CDC /* ViewController.swift */,
 				5BF99CA71DDD64E700F44CDC /* Main.storyboard */,
+				5BF99CB51DDD673500F44CDC /* hello.jpg */,
 				5BF99CAA1DDD64E700F44CDC /* Assets.xcassets */,
 				5BF99CAC1DDD64E700F44CDC /* LaunchScreen.storyboard */,
 				5BF99CAF1DDD64E700F44CDC /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF99CB61DDD673500F44CDC /* hello.jpg in Resources */,
 				5BF99CAE1DDD64E700F44CDC /* LaunchScreen.storyboard in Resources */,
 				5BF99CAB1DDD64E700F44CDC /* Assets.xcassets in Resources */,
 				5BF99CA91DDD64E700F44CDC /* Main.storyboard in Resources */,
